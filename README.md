@@ -1,4 +1,6 @@
-# react_native_todo
+# react_native
 
- - react native
- - todo 앱 예제
+ - react native 
+ - 예제 구현 연습
+----------
+ - todo: todo리스트 예제
