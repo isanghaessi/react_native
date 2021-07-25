@@ -1,4 +1,4 @@
-# react_native
+# study react native
 
  - react native 
  - 예제 구현 연습
